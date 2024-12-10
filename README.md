@@ -1,11 +1,11 @@
-    # Práctica de **Sistemas Informáticos**
+# Práctica de **Sistemas Informáticos**
 
-    **Código en recuadro**
-    ```bash
-    ls -la
-    ```
+**Código en recuadro**
+```bash
+ls -la
+```
 
-    ## Arquitectura Cliente -- Servidor
+## Arquitectura Cliente -- Servidor
 
-    ### Protocolo HTTP
+### Protocolo HTTP
     
